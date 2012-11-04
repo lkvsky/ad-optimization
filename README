@@ -1,0 +1,3 @@
+Ad Optimization Code Test
+
+For this problem, I wrote a python script to read/write the csv data into a js file, storing the entries in a variable as a matrix of arrays. I then wrote a scheduling constructor (and test cases) that either takes the ad data as a variable or initializes an empty array. The constructor provides a series of methods to calculate the optimal budget for the ads: total budget for a single hour, total budget for a single ad, budget for a given ad at a given hour, budget breakdown for the entire month.
